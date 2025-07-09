@@ -96,8 +96,8 @@
 ## 👤 Author Details
 
 **Name**: Vishnu Gupta Karapakula  
-**Role**: Student / B.Tech CSE(AI&ML)
-**LinkedIn**: [https://linkedin.com/in/Vishnu Gupta Karapakula]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/vishnu-gupta-karapakula-a89409272/))  
+**Role**: Student / B.Tech CSE(AI&ML)  
+**LinkedIn**: [https://linkedin.com/in/Vishnu Gupta Karapakula](https://www.linkedin.com/in/vishnu-gupta-karapakula-a89409272/)   
 **GitHub**: [https://github.com/Vishnu Gupta Karapakula](https://github.com/Vishnu-Gupta-K)
 
 ---
